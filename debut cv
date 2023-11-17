@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title> Mon CV </title>
+</head>
+
+<body>
+  
+<section>
+    
+    <IMG src="photo.jpg"width="100" align="right">
+    
+    <center>
+    <h1>Da Cruz Quentin</h1>   
+    </center>
+    
+
+    <h3 style="text-decoration:underline;" <ul> MON PROFIL </ul> </h3>
+    
+    <p> <ul> . Né le : 15/05/2004 > 19 ans  </ul> </p>
+    <p> <ul> . Nationalité : Française  </ul> </p>
+    <p> <ul> . Permis B </ul> </p>
+
+    <p> <ul> . Actuellement en BTS SIO. </ul> </p>
+    <p> <ul> . J'ai obtenu mon BAC PRO SYSTEME NUMERIQUE. </ul> </p>
+    <p> <ul> . Je suis ponctuel, souriant et travailleur. </ul> </p>
+    <p> <ul> . Je suis prêt à m'impliquer complètement dans les missions que vous pourrez me confier.  </ul> </p>
+
+    
+    
+    <h3 style="text-decoration:underline;" <ul> COORDONNE </ul> </h3>
+    
+    <p> <ul> - 1 Rue de l'Espoir </ul> </p>
+    <p> <ul> -mon 69100 Villeurbanne </ul> </p>    
+    <p> <ul> - 06.73.41.70.10 </ul> </p>
+    <p> <ul> - quentin.dacruz38110@gmail.com </ul> </p>
+
+
+    <h3 style="text-decoration:underline;" <ul> COMPETENCES </ul> </h3>
+    
+    <p> <ul> Réparation/configuration/reconditionnement informatique (PC). </ul> </p>
+    <p> <ul> Masterisation de poste, Word, Excel,  Internet </ul> </p>    
+    <p> <ul> Notion : Active Directory, GLPI, Citrix, Téléphonie, Bugzilla, Acronis, Zendesk, Gestaff, Synologie  </ul> </p>
+    
+
+    <h3 style="text-decoration:underline;" <ul> CENTRE D'INTERET </ul> </h3>
+    
+    <p> <ul> Sport > </ul> </p>
+         <p> <ul> Musculation, vélo </ul> </p>
+    <p> <ul> Voyages > </ul> </p>
+        <p> <ul>  Portugal, Espagne </ul> </p>
+    <p> <ul>   Divers > </ul> </p>
+        <p> <ul> Jeux vidéo, série, animé, vidéo, mécanique automobile </ul> </p>
+    
+
+
+    <div class="container">
+
+    <div class="info">
+    
+
+        <h3 style="text-decoration:underline;" <ul> FORMATION : </ul> </h3>
+    <p> <ul> BTS Services informatiques aux organisations option A  solutions d'infrastructure, systèmes et réseaux (SIO SISR)  en alternace </ul> </p>
+    <p> <ul> Alterant chez nixie ; Technicien administrateur réseau </ul>
+    </div>
+
+    <div class="ntm">
+
+
+    <h3 style="text-decoration:underline;" <ul> EXPERIENCE PROFESSIONNELLE : </ul> </h3>
+    
+
+    <h4 style="text-decoration:underline;" <strong>   <ul> Formation pratique </ul> </strong></h4>
+    <p><i><strong> <ul> Atlantic | janvier 2023 - fevrier 2023 </ul> </strong> </i></p>
+    <p> <ul> Durée 4 semaines (stage de Terminal) </ul> </p>
+    <p> <ul> . Réparation informatique, Installation et configuration d'un parc informatique au sein d'un service. </ul> </p>
+    <p> <ul> . Réseau : Configuration et installation d'un switch, téléphonie Shoretel. </ul> </p>
+    <p> <ul> . Configuration/installation, intégration de PC dans les bonnes stratégies de groupe. </ul> </p>
+    <p> <ul> ! Meyzieu </ul> </p>
+
+
+    <h4 style="text-decoration:underline;" <strong> <ul> Travial d'hiver </ul> </strong></h4>
+    <p><i><strong> <ul> Atlantic | 22 décembre 2022 - 27 décembre 2022 </ul> </strong> </i></p>
+    <p> <ul> ! Meyzieu </ul> </p>
+
+
+    <h4 style="text-decoration:underline;" <strong> <ul> Formation pratique </ul> </strong></h4>
+    <p><i><strong> <ul> Atlantic | Septembre 2022 - octobre 2022 </ul> </strong> </i></p>
+    <p> <ul> Durée 4 semaines (stage de Terminal) </ul> </p>
+    <p> <ul> . Réparation informatique, bootage PC, sauvegarde de données + image ISO. </ul> </p>
+    <p> <ul> . Réseau : Configuration et brassage de prise réseau, téléphonie Shoretel </ul> </p>
+    <p> <ul> . Configuration/installation, intégration de PC dans les bonnes stratégies de groupe, installation de poste type client </ul> </p>
+    <p> <ul> ! Meyzieu </ul> </p>
+
+
+    <h4 style="text-decoration:underline;"<strong> <ul> Travial d'été </ul> </strong></h4>
+    <p><i><strong> <ul> Atlantic | 13 juin 2022 - 29 août 2022 </ul> </strong> </i></p>
+    <p> <ul> ! Meyzieu </ul> </p>
+    
+
+    <h4 style="text-decoration:underline;" <strong> <ul> Formation pratique </ul> </strong></h4>
+    <p><i><strong> <ul> SEROO informatique | mars 2022 - avril 2022 / novembre 2021 - décembre 2021 </ul> </strong> </i></p>
+    <p> <ul> Durée environ 2 mois (stage de Première) </ul> </p>
+    <p> <ul> . - Réparation informatique hardware (téléphone, PC). </ul> </p>
+    <p> <ul> . Maintenance informatique / Bootage PC /Sauvegarde de données + Image ISO </ul> </p>
+    <p> <ul> ! Saint Clair de la Tour </ul> </p>
+    
+
+    <h4 style="text-decoration:underline;" <strong> <ul> Formation pratique </ul> </strong></h4>
+    <p><i><strong> <ul> SEROO informatique | mai 2021 - juin 2021 / fevrier 2021 - mars 2021 </ul> </strong> </i></p>
+    <p> <ul> Durée environ 2 mois (stage de Seconde) </ul> </p>
+    <p> <ul> . - Réparation informatique hardware (téléphone, PC). </ul> </p>
+    <p> <ul> . Maintenance informatique / Bootage PC /Sauvegarde de données + Image ISO </ul> </p>
+    <p> <ul> ! Saint Clair de la Tour </ul> </p>
+
+
+    </div>
+</div>
+
+
+</section>
+
+
+</body>
+</html>
